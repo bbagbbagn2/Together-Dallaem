@@ -2,7 +2,6 @@
 
 @theme {
   /* font family */
-  --font-sans: "Pretendard", ui-sans-serif, system-ui, sans-serif;
   --font-pretendard: "Pretendard", sans-serif;
 
   /* 기본 컬러색상 */
@@ -39,4 +38,31 @@
 
   /* 빨강 색상 */
   --color-red-600: #dc2626;
+
+  /* 커스텀 폰트 설정 */
+
+  /* 사이즈 */
+  --text-xs: 12px;
+  --text-sm: 14px;
+  --text-base: 16px;
+  --text-lg: 18px;
+  --text-xl: 20px;
+  --text-2xl: 24px;
+  --text-3xl: 30px;
+
+  /* 라인 높이 */
+  --leading-xs: 16px;
+  --leading-sm: 20px;
+  --leading-base: 24px;
+  --leading-lg: 28px;
+  --leading-xl: 28px;
+  --leading-2xl: 32px;
+  --leading-3xl: 36px;
+
+  /* 굵기 */
+  --font-weight-light: 300;
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
 }
