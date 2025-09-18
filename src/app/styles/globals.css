@@ -8,6 +8,9 @@
   --color-black: #000000;
   --color-white: #ffffff;
 
+  /* 빨강 색상 */
+  --color-red-600: #dc2626;
+
   /* 커스텀 컬러색상  */
 
   /* 오렌지 색상 */
@@ -36,9 +39,6 @@
   --color-gray-900: #111827;
   --color-gray-950: #030712;
 
-  /* 빨강 색상 */
-  --color-red-600: #dc2626;
-
   /* 커스텀 폰트 설정 */
 
   /* 사이즈 */
@@ -65,4 +65,9 @@
   --font-weight-medium: 500;
   --font-weight-semibold: 600;
   --font-weight-bold: 700;
+
+  /* 커스텀 반응형 디자인 */
+  --breakpoint-mb: 375px; /* 모바일 */
+  --breakpoint-tb: 744px; /* 태블릿 */
+  --breakpoint-pc: 1200px; /* 데스크탑 */
 }
