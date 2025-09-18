@@ -46,8 +46,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 - **React.js**
 - **Next.js (v14~15)**
 
----
-
 ## **HTTP Communication**
 
 - Fetch
@@ -57,26 +55,22 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 - **Global State Management**: Zustand
 - **Server State Management**: React Query (TanStack Query)
 
----
-
 ## **Styling**
 
 - **Tailwind CSS**
-
----
 
 ## **Build and Deployment**
 
 - **Build Tool**: Create Next App (CNA)
 - **Deployment Platform**: Vercel
 
----
+## **Form Handling and Validation**
+
+- **React Hook Form + Zod**
 
 ## **Code Quality**
 
 - **ESLint + Prettier**
-
----
 
 ## **Version Control and Package Management**
 
@@ -87,4 +81,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 - **Jest**
 - **React Testing Library**
+- **Playwright**
+
+## **UI Development / Document**
+
 - **Storybook**
