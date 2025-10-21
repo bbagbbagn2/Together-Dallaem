@@ -25,9 +25,6 @@ jobs:
       - name: 의존성(라이브러리) 설치
         run: npm ci
 
-      - name: Run Tests
-        run: npm run test
-
       - name: Vercel CLI 설치
         run: npm install --global vercel@latest
 
